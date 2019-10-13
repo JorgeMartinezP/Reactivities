@@ -2,3 +2,11 @@ bin
 obj
 .DS_Store
 *.db
+*.dtbcache
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.suo
+*.user
+apsetting.json
